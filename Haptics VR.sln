@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haptics VR", "Assembly-CSharp-firstpass.csproj", "{72BC69E7-694E-E7C6-5331-5E763E0D75D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haptics VR", "Assembly-CSharp.csproj", "{FA41B298-41B0-D0F8-58E4-65CD3F27E192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haptics VR", "Assembly-CSharp-Editor.csproj", "{062C44AE-4D5A-17E6-7704-A1AE0D346088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72BC69E7-694E-E7C6-5331-5E763E0D75D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BC69E7-694E-E7C6-5331-5E763E0D75D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BC69E7-694E-E7C6-5331-5E763E0D75D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BC69E7-694E-E7C6-5331-5E763E0D75D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA41B298-41B0-D0F8-58E4-65CD3F27E192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA41B298-41B0-D0F8-58E4-65CD3F27E192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA41B298-41B0-D0F8-58E4-65CD3F27E192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA41B298-41B0-D0F8-58E4-65CD3F27E192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062C44AE-4D5A-17E6-7704-A1AE0D346088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062C44AE-4D5A-17E6-7704-A1AE0D346088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062C44AE-4D5A-17E6-7704-A1AE0D346088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062C44AE-4D5A-17E6-7704-A1AE0D346088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
